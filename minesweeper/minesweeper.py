@@ -250,7 +250,7 @@ class MinesweeperAI():
 
         print(f"{len(self.knowledge)} sentences in kb")
         for sentence in self.knowledge:
-            print(sentence)
+            print(sentence) 
         print("----")
     def make_safe_move(self):
         """
