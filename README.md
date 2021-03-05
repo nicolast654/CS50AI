@@ -9,8 +9,8 @@ I will post all the projects of the CS50AI 2021 course:
 | tictactoe      | done|
 | knights | done |
 | minesweeper | done |
-| PageRank | In Progress |
-| Heredity | Not Yet |
+| PageRank | done |
+| Heredity | In Progress |
 | Crossword | Not Yet |
 | Shopping | Not Yet |
 | Nim | Not Yet |
