@@ -18,5 +18,5 @@ I will post all the projects of the CS50AI 2021 course:
 | Parser | Not Yet |
 | Questions | Not Yet |
 
-# CONTRIBUTION
+## CONTRIBUTION
 All these projects where started by the CS50AI staff, and my role was just to add the AI part of the code.
