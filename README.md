@@ -10,7 +10,7 @@ I will post all the projects of the CS50AI 2021 course:
 | knights | done |
 | minesweeper | done |
 | PageRank | done |
-| Heredity | In Progress |
+| Heredity | done |
 | Crossword | Not Yet |
 | Shopping | Not Yet |
 | Nim | Not Yet |
