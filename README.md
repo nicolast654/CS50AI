@@ -11,7 +11,7 @@ I will post all the projects of the CS50AI 2021 course:
 | minesweeper | done |
 | PageRank | done |
 | Heredity | done |
-| Crossword | In progress |
+| Crossword | Done |
 | Shopping | Not Yet |
 | Nim | Not Yet |
 | Traffic | Not Yet |
