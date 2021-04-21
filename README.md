@@ -12,7 +12,7 @@ I will post all the projects of the CS50AI 2021 course:
 | PageRank | done |
 | Heredity | done |
 | Crossword | done |
-| Shopping | Not Yet |
+| Shopping | In progress |
 | Nim | Not Yet |
 | Traffic | Not Yet |
 | Parser | Not Yet |
