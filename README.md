@@ -13,7 +13,7 @@ I will post all the projects of the CS50AI 2021 course:
 | 5 | Heredity | Write an AI to assess the likelihood that a person will have a particular genetic trait. | done |
 | 6 | Crossword | Write an AI to generate crossword puzzles. | done |
 | 7 | Shopping | Write an AI to predict whether online shopping customers will complete a purchase. | done |
-| 8 | Nim | Write an AI that teaches itself to play Nim through reinforcement learning. | In progress |
+| 8 | Nim | Write an AI that teaches itself to play Nim through reinforcement learning. | done |
 | 9 | Traffic | Write an AI to identify which traffic sign appears in a photograph. | Not Yet |
 | 10 | Parser | Write an AI to parse sentences and extract noun phrases. | Not Yet |
 | 11 | Questions | Write an AI to answer questions. | Not Yet |
