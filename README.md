@@ -4,7 +4,7 @@ My projects for the CS50AI course
 I will post all the projects of the CS50AI 2021 course:
 
 | project # | project        | description | status    |           
-| --------- | ------------- |--------------|:-------------:|
+| --------- | ------------- |--------------|-------------|
 | 0 | degree | Write a program that determines how many “degrees of separation” apart two actors are. | done   |
 | 1 | tictactoe | Using Minimax, implement an AI to play Tic-Tac-Toe optimally. | done |
 | 2 | knights | Write a program to solve logic puzzles. | done |
