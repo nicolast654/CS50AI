@@ -3,7 +3,7 @@ My projects for the CS50AI course
 
 I will post all the projects of the CS50AI 2021 course:
 
-project #| project        | status    |           
+project # | project        | status    |           
 0 | ------------- |:-------------:|
 1 | degree      | done   |
 2 | tictactoe      | done|
