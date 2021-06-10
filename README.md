@@ -1,7 +1,5 @@
 # CS50AI
-My projects for the CS50AI course
-
-I will post all the projects of the CS50AI 2021 course:
+My anwsers for the projects of CS50AI course
 
 | project # | project        | description | status    |           
 | --------- | ------------- |--------------|-------------|
@@ -16,7 +14,9 @@ I will post all the projects of the CS50AI 2021 course:
 | 8 | Nim | Write an AI that teaches itself to play Nim through reinforcement learning. | done |
 | 9 | Traffic | Write an AI to identify which traffic sign appears in a photograph. | done |
 | 10 | Parser | Write an AI to parse sentences and extract noun phrases. |done |
-| 11 | Questions | Write an AI to answer questions. | In progress |
+| 11 | Questions | Write an AI to answer questions. | done |
 
 ## CONTRIBUTION
 All these projects were started by the CS50AI staff, and my role was just to add the AI part of the code.
+
+The course: https://cs50.harvard.edu/ai/2020/
