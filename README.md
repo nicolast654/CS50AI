@@ -17,6 +17,6 @@ My anwsers for the projects of CS50AI course
 | 11 | Questions | Write an AI to answer questions. | done |
 
 ## CONTRIBUTION
-All these projects were started by the CS50AI staff, and my role was just to add the AI part of the code.
+The CS50AI staff started all these projects, and my role was to implement the AI algorithms in the code.
 
 The course: https://cs50.harvard.edu/ai/2020/
